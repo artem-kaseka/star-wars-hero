@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+.app__title {
+	text-align: center;
+	color: white;
+}
+
+.app__wrapper {
+	display: flex;
+	padding: 30px;
+	min-width: 615px;
+	background-color: rgba(0, 0, 0, 0.7);
+	border-radius: 10px;
+	color: white;
+}

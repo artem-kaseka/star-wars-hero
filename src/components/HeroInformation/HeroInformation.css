@@ -1,0 +1,7 @@
+.hero-information {
+	list-style: none;
+}
+
+.hero-information li span{
+	text-transform: capitalize;
+}
