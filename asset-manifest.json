@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/star-wars-hero/static/css/main.2ad38ce8.chunk.css",
+    "main.js": "/star-wars-hero/static/js/main.1292efe8.chunk.js",
+    "main.js.map": "/star-wars-hero/static/js/main.1292efe8.chunk.js.map",
+    "runtime~main.js": "/star-wars-hero/static/js/runtime~main.5b274742.js",
+    "runtime~main.js.map": "/star-wars-hero/static/js/runtime~main.5b274742.js.map",
+    "static/js/2.b0d4d72d.chunk.js": "/star-wars-hero/static/js/2.b0d4d72d.chunk.js",
+    "static/js/2.b0d4d72d.chunk.js.map": "/star-wars-hero/static/js/2.b0d4d72d.chunk.js.map",
+    "index.html": "/star-wars-hero/index.html",
+    "precache-manifest.076e0f5836d3cc58112edf605c1be853.js": "/star-wars-hero/precache-manifest.076e0f5836d3cc58112edf605c1be853.js",
+    "service-worker.js": "/star-wars-hero/service-worker.js",
+    "static/css/main.2ad38ce8.chunk.css.map": "/star-wars-hero/static/css/main.2ad38ce8.chunk.css.map",
+    "static/media/index.css": "/star-wars-hero/static/media/ou7Yofa.fda207a9.jpg"
+  }
+}
